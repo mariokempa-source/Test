@@ -6,5 +6,7 @@ Inhalt:
 3. [10 Video-Skripte](03_video_skripte.md)
 4. [30-Tage-Posting-Plan](04_posting_plan_30_tage.md)
 5. [Monetarisierung & Rechnung zu 1.000 €/Tag](05_monetarisierung_und_rechnung.md)
+6. [Workflow mit minimalem Aufwand](06_minimal_aufwand_workflow.md)
+7. [Content-Kalender (CSV, 76 Posts)](07_content_kalender.csv)
 
 Monetarisierung ausschließlich über TikTok Shop (Affiliate) und Creator Rewards Program. Die Zahlen sind Annahmen, keine Ertragsgarantie.
